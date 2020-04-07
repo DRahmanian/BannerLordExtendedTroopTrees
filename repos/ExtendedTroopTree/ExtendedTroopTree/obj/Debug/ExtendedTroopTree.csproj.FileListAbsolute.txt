@@ -1,0 +1,7 @@
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\ExtendedTroopTree\bin\Win64_Shipping_Client\ExtendedTroopTree.dll
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\ExtendedTroopTree\bin\Win64_Shipping_Client\ExtendedTroopTree.pdb
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\repos\ExtendedTroopTree\ExtendedTroopTree\obj\Debug\ExtendedTroopTree.csprojAssemblyReference.cache
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\repos\ExtendedTroopTree\ExtendedTroopTree\obj\Debug\ExtendedTroopTree.csproj.CoreCompileInputs.cache
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\repos\ExtendedTroopTree\ExtendedTroopTree\obj\Debug\ExtendedTroopTree.csproj.CopyComplete
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\repos\ExtendedTroopTree\ExtendedTroopTree\obj\Debug\ExtendedTroopTree.dll
+C:\Users\kylej\Documents\GitHub\BannerLordExtendedTroopTrees\repos\ExtendedTroopTree\ExtendedTroopTree\obj\Debug\ExtendedTroopTree.pdb
