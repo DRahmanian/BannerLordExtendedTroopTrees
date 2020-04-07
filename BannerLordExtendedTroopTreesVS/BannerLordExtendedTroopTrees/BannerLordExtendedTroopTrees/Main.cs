@@ -11,11 +11,13 @@ namespace BannerLordExtendedTroopTrees
 {
     public class Main : MBSubModuleBase
     {
+
         protected override void OnSubModuleLoad()
         {
-            Module.CurrentModule.AddInitialStateOption( new InitialStateOption( "TestMainMenuOption", new TextObject("Click me!", null), 9990, () => {
-                InformationManager.DisplayMessage(new InformationMessage("Hello World!"));
-            }, false ) );
+            Module.CurrentModule.AddInitialStateOption(new InitialStateOption("TestMainMenuOption", new TextObject("Click me!", null), 9990, () =>
+          {
+              InformationManager.DisplayMessage(new InformationMessage("Hello World!"));
+          }, false));
         }
     }
 }

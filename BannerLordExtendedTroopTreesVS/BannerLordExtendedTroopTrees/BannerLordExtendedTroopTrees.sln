@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerLordExtendedTroopTrees", "BannerLordExtendedTroopTrees\BannerLordExtendedTroopTrees.csproj", "{C231804D-45A6-4D05-9AC6-0D4CD7866BD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BannerLordExtendedTroopTrees", "BannerLordExtendedTroopTrees\BannerLordExtendedTroopTrees.csproj", "{F8A5F65D-084E-404F-9E04-E2D24B83EA94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C231804D-45A6-4D05-9AC6-0D4CD7866BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C231804D-45A6-4D05-9AC6-0D4CD7866BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C231804D-45A6-4D05-9AC6-0D4CD7866BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C231804D-45A6-4D05-9AC6-0D4CD7866BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A5F65D-084E-404F-9E04-E2D24B83EA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A5F65D-084E-404F-9E04-E2D24B83EA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A5F65D-084E-404F-9E04-E2D24B83EA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A5F65D-084E-404F-9E04-E2D24B83EA94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E9B556EF-A496-4341-BCB2-B6C3D8294549}
+		SolutionGuid = {A5658F68-818E-4DB4-98FF-77CAA1AB86C7}
 	EndGlobalSection
 EndGlobal
